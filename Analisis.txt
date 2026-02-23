@@ -1,0 +1,2 @@
+entrada: String
+salida: String

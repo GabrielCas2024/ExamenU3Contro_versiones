@@ -1,0 +1,2 @@
+Ingresar un String nombre  y un String mensaje
+Creamos un void que se llame saludar y que fusione el mensaje con el nombre;
